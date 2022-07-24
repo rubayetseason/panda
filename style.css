@@ -5,15 +5,24 @@ body {
 .navbar {
     background-color: #FFE6E6 !important;
 }
+
 .carousel-item {
-    background-color:#FFE6E6 !important;
+    background-color: #FFE6E6 !important;
 }
+
 .pink {
     font-weight: 700;
     color: tomato !important;
 }
 
+.light {
+    background-color: #FFEEEE;
+}
 
+.height {
+    height: 300px;
+    background-color: #FFE6E6;
+}
 
 
 @media only screen and (max-width: 600px) {
