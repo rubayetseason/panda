@@ -8,7 +8,10 @@ body {
 .carousel-item {
     background-color:#FFE6E6 !important;
 }
-
+.pink {
+    font-weight: 700;
+    color: tomato !important;
+}
 
 
 
