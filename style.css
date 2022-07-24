@@ -1,0 +1,20 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar {
+    background-color: #FFE6E6 !important;
+}
+.carousel-item {
+    background-color:#FFE6E6 !important;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .row {
+        flex-direction: column-reverse !important;
+    }
+}
